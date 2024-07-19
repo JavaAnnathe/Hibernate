@@ -1,0 +1,24 @@
+Object Relational Impedance mismatch
+
+Java implements object model
+
+RDBMS implements relational model--tables
+
+Granularity mismatch:
+
+Object model is more granular than Relational  model.
+
+SubType(Inheritance mismatch)
+
+Object model has hierarchy of objects but there is no such thing in Relational model
+
+Identity mismatch
+
+In object model, two objects are said to be same if both has same object reference.
+In relational model, two rows are same if their primary keys are equal.
+
+Association mismatch
+In object model it is done using object refernces, In relational model, it is done using foreign key.
+
+Data Navigation
+In object model, we walk thru object graph using object references, In relational model, we use join queries.

@@ -1,0 +1,111 @@
+1. OOAD and Object Model
+
+2. RDBMS design and Relational model
+
+Normalization  Entity Relationship Diagram
+
+Tables and colums
+
+Object model and relational model are not fitting naturally
+
+
+3. Object relational impedance mismatch
+
+4. ORM solution
+
+5. Hibernate as ORM solution provider
+
+JPA versus Hibernate
+
+JPA is a specification
+
+Hibernate is the implementation for
+
+
+java.sql api--specification
+
+
+6. Java Persistance API (JPA) as specification
+
+7. Hibernate XML based configuration
+
+8. Hibernate annotation based configuration
+
+Java is a OOP
+OOAD-Analysis --Design--Construction--Testing -implementation
+
+OOAD--Analysis model--design-model-construction
+
+Identity--Requirements--Object--
+
+Customer, Account-Products
+
+Address--
+
+Relationships
+
+1.Association--Teacher--Student-many--many
+
+Prime minister--Country--one-one
+
+2. parent-child--generalization--specilization-inheritance
+
+3.dependency
+
+4.realiaization
+
+we come with object relationship in a diagram--object model
+
+design phase
+
+object model--- domain class--domain model
+
+
+Claim, Customer
+
+
+domain model/object model
+
+
+Customer--Account-- association
+
+
+Has a---association-aggregation/Composition
+
+is a ---inheritance
+
+realization-interface--implementation
+
+traversing the object graph
+
+
+Object-Relational mapping 
+
+Manually done using JDBC 
+
+Classes
+1.Book
+2.Chapter
+3.Publisher
+
+
+Relationship
+Book--Association---Publisher
+
+Book---Association----Chapter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
